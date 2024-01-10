@@ -23,7 +23,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 📖 Read My Blogs:
 
 <p>
-    <a target="_blank"href="https://dev.to/everglow__l"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://www.jianshu.com/u/5aae0fccb4a3"><img alt="jianshu" src="https://img.shields.io/badge/jianshu-ec6149?style=for-the-badge&logo=jianshu&logoColor=white" /></a>&nbsp;&nbsp;
    
 </p>
 
