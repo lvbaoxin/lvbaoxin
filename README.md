@@ -1,13 +1,7 @@
-<div align="center">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!--[![Hello World, I'm Lyu!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lyu012) &nbsp;
-<!--[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
--->
-</div>
+<p>Welcome to my page! </br> I'm Lyu, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909402.png" width="13"/> <b> China</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/256/11618/11618155.png" width="13"/> <b>Dalian</b>. </p>
 
 
 <div align="center">
